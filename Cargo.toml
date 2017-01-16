@@ -31,6 +31,7 @@ libc = {version = "0.2.6", optional=true}
 num_cpus = "0.2"
 itertools = "0.4"
 lz4 = "1.13"
+bit-set = "0.4.0"
 time = "0.1"
 uuid = "0.1"
 chan = "0.1"
